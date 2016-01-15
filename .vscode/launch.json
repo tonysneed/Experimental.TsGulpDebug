@@ -1,0 +1,16 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch",
+			"type": "node",
+			"request": "launch",
+			"program": "${file}", //src/ts/HelloWorld.ts
+			"stopOnEntry": true,
+			"args": [],
+			"cwd": ".",
+			"sourceMaps": true,
+			"outDir": "src/js"
+		}
+	]
+}
