@@ -9,4 +9,5 @@ var Startup = (function () {
 })();
 exports.Startup = Startup;
 Startup.main();
+
 //# sourceMappingURL=HelloWorld.js.map

@@ -1,0 +1,27 @@
+{
+  "name": "Experimental.TsGulpDebug",
+  "version": "1.0.0",
+  "description": "Demonstrates how to debug TypeScript when JavaScript and  source maps are generated via a Gulp task.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonysneed/Experimental.TsGulpDebug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonysneed/Experimental.TsGulpDebug/issues"
+  },
+  "homepage": "https://github.com/tonysneed/Experimental.TsGulpDebug#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-task-listing": "^1.0.1",
+    "gulp-typescript": "^2.10.0"
+  }
+}
